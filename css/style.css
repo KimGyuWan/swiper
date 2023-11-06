@@ -65,3 +65,13 @@
 .green {
   background-color: green;
 }
+
+.swiper-slide {
+  opacity: 0;
+  transition: 0.5s;
+}
+
+.on.swiper-slide {
+  opacity: 1;
+  z-index: 10000;
+}
