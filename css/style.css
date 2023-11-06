@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.position-rel {
+  position: relative;
+}
+
+.position-abs {
+  position: absolute;
+}
+
+.position-fix {
+  position: fixed;
+}
+
+.ofh {
+  overflow: hidden;
+}
+
+.h100 {
+  height: 100px;
+}
+
+.h200 {
+  height: 200px;
+}
+
+.h300 {
+  height: 300px;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.w1200 {
+  width: 1200px;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.swiper-wrapper {
+  width: 100000px;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
